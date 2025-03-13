@@ -35,14 +35,15 @@ Here are some highlighted projects that demonstrate my capabilities:
 ### Javascript Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-|  Auto Fantrax Auction Pauser | An extension for Chrome (using Tampermonkey to automatically pause our auction when we run it remotely ) | Javascript | [Link](https://github.com/rroethle7474/JCL-Auction-Pauser) |
-| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
+| Base AI Chat Bot | Using OpenAI, provides a simple UI for chatting and keeping history with a LLM | Javascript, Bun, Prisma, Hono, Typescript | [Link](https://github.com/rroethle7474/ai-chat/tree/main/ai-chat) | |
+| Auto Fantrax Auction Pauser | An extension for Chrome (using Tampermonkey to automatically pause our auction when we run it remotely ) | Javascript | [Link](https://github.com/rroethle7474/JCL-Auction-Pauser) | |
+
 
 ### Python Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python |  | |
-| Raspberry Pi Media Player with Remote | A media player tied to a universal remote to automatically play tv shows for my Grandma. | Python Linux Raspberry Pi| [Link](URL) | <a href="https://github.com/rroethle7474/auto-remote-media-rasp-pi">Link</a> |
+| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) | | 
+| Raspberry Pi Media Player with Remote | A media player tied to a universal remote to automatically play tv shows for my Grandma. | Python Linux Raspberry Pi| [Link](https://github.com/rroethle7474/auto-remote-media-rasp-pi) | |
 
 ### Database
 | Project | Description | Tech Stack | Link |
