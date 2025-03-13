@@ -41,7 +41,7 @@ Here are some highlighted projects that demonstrate my capabilities:
 ### Python Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) | | 
+| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | <a href="https://github.com/rroethle7474/JCL2025-Roster" target="_blank" rel="noopener noreferrer">Link</a> | |
 | [Project Name] | Brief description of what this project does | JavaScript, Vue.js, Express | [Link](URL) | |
 
 ### Database
