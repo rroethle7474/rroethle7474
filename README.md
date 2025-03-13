@@ -17,13 +17,13 @@ Here are some highlighted projects that demonstrate my capabilities:
 ## C#, .NET Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) | |
+| StoryTimeComicBookApi | Brief description of what this project does | C#, .NET 7, PostgreSQL, Replicate, Entity Framnework | [Link](https://github.com/rroethle7474/StoryTimeComicBookApi) | |
 | [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
 
 ## Angular Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) | |
+| StoryTimeComicBook | A UI to walk a user through uploading image and audio to create their very own comic | Angular 17 Typescript RxJS, Toastr | [Link](https://github.com/rroethle7474/comic-book-generator) | |
 | [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
 
 ## React Projects
