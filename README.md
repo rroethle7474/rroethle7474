@@ -14,19 +14,37 @@ Brief introduction about yourself, your background, and what you're passionate a
 ## Featured Projects
 Here are some highlighted projects that demonstrate my capabilities:
 
-### Python Projects
+## C#, .NET Projects
+| Project | Description | Tech Stack | GitHub Link | Site Link |)
+|---------|-------------|------------|------|
+| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
+| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
+
+## Angular Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
 | [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
 
-### JavaScript Projects
+## React Projects
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| [Project Name] | Brief description of what this project does | JavaScript, React, Node.js | [Link](URL) |
+| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
+| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
+
+### Javascript Projects
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
+| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
+
+### Python Projects
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|------|
+| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) |
 | [Project Name] | Brief description of what this project does | JavaScript, Vue.js, Express | [Link](URL) |
 
-### Other Significant Projects
+### Database
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
 | [Project Name] | Brief description of what this project does | Java, Spring Boot | [Link](URL) |
@@ -36,9 +54,8 @@ Here are some highlighted projects that demonstrate my capabilities:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rroethle7474&show_icons=true&theme=radical)
 
 ## Contact Me
-- **Email**: your.email@example.com
+- **Email**: rroethle@gmail.com
 - **LinkedIn**: [Your LinkedIn Profile](URL)
-- **Portfolio**: [Your Portfolio Website](URL)
 
 ## Looking For
 Currently seeking opportunities in [specific roles or industries you're targeting].
