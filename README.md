@@ -37,6 +37,7 @@ Here are some highlighted projects that demonstrate my capabilities:
 |---------|-------------|------------|-------------| ----------|
 | Base AI Chat Bot | Using OpenAI, provides a simple UI for chatting and keeping history with a LLM | Javascript, Bun, Prisma, Hono, Typescript | [Link](https://github.com/rroethle7474/ai-chat/tree/main/ai-chat) | |
 | Auto Fantrax Auction Pauser | An extension for Chrome (using Tampermonkey to automatically pause our auction when we run it remotely ) | Javascript | [Link](https://github.com/rroethle7474/JCL-Auction-Pauser) | |
+| Social Media Detox Site Blocker Chrome Extension| An extension for Chrome that redirects a user to my Social Media Detox Site | Javascript | [Link](https://github.com/rroethle7474/SocialMediaDetoxChromeExtension) | |
 
 
 ### Python Projects
