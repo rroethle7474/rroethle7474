@@ -15,10 +15,10 @@ Brief introduction about yourself, your background, and what you're passionate a
 Here are some highlighted projects that demonstrate my capabilities:
 
 ## C#, .NET Projects
-| Project | Description | Tech Stack | GitHub Link | Site Link |)
-|---------|-------------|------------|------|
-| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
-| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) | |
+| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
 
 ## Angular Projects
 | Project | Description | Tech Stack | Link |
@@ -40,9 +40,9 @@ Here are some highlighted projects that demonstrate my capabilities:
 
 ### Python Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
-|---------|-------------|------------|------|
-| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) |
-| [Project Name] | Brief description of what this project does | JavaScript, Vue.js, Express | [Link](URL) |
+|---------|-------------|------------|-------------| ----------|
+| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) | | 
+| [Project Name] | Brief description of what this project does | JavaScript, Vue.js, Express | [Link](URL) | |
 
 ### Database
 | Project | Description | Tech Stack | Link |
