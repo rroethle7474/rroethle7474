@@ -21,28 +21,28 @@ Here are some highlighted projects that demonstrate my capabilities:
 | [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
 
 ## Angular Projects
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
-| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) | |
+| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
 
 ## React Projects
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
-| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) | | 
+| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
 
 ### Javascript Projects
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) |
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+|  Auto Fantrax Auction Pauser | An extension for Chrome (using Tampermonkey to automatically pause our auction when we run it remotely ) | Javascript | [Link](https://github.com/rroethle7474/JCL-Auction-Pauser) |
 | [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) |
 
 ### Python Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | <a href="https://github.com/rroethle7474/JCL2025-Roster" target="_blank" rel="noopener noreferrer">Link</a> | |
-| [Project Name] | Brief description of what this project does | JavaScript, Vue.js, Express | [Link](URL) | |
+| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python |  | |
+| Raspberry Pi Media Player with Remote | A media player tied to a universal remote to automatically play tv shows for my Grandma. | Python Linux Raspberry Pi| [Link](URL) | <a href="https://github.com/rroethle7474/auto-remote-media-rasp-pi">Link</a> |
 
 ### Database
 | Project | Description | Tech Stack | Link |
