@@ -29,7 +29,7 @@ Here are some highlighted projects that demonstrate my capabilities:
 ## React Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-| [Project Name] | Brief description of what this project does | Python, Django, PostgreSQL | [Link](URL) | | 
+| Story Time Image Generation | A basic web app to create images based on descriptions from OpenAI. The inspiration to my comic book generation app | React 19, NodeJS, Express, Tailwind, SQLite | [Link](https://github.com/rroethle7474/story-time-image-gen) | | 
 | [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
 
 ### Javascript Projects
