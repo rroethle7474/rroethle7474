@@ -1,14 +1,36 @@
 # Ryan Roethle
 
 ## About Me
-Brief introduction about yourself, your background, and what you're passionate about in software development.
+I'm a full stack dev who is loving what AI is bringing to the programming world. After taking some time off, starting in 2025,  I decided to get back in the game!
+
+Feel free to browse some of the repo's I've been working on below for more details or review the docs for insight.
+
+
+## What I'm working on Next
+
+
+
+
+## Links: Live Demo Sites all full stack applications hosted in Azure
+*Please note: For cost saving purposes all sites are run on Basic Tiers, performance may be slow especially on first page load. Full repo's can be found on my github page+
+
+*Front End Demo for Landing Page (with links to below sites)*
+https://mandry.software/
+
+Full Stack Web Applications (Front End, Backend, Database)
+https://www.dopaminedetoxtoday.com/
+
+https://www.sillymonkeygifts.com/
+
+https://www.jclleague.com/
+
 
 ## Skills & Technologies
-- **Languages**: Python, JavaScript, Java, etc.
-- **Frontend**: React, Vue.js, HTML/CSS, etc.
-- **Backend**: Node.js, Django, Flask, etc.
-- **Databases**: PostgreSQL, MongoDB, etc.
-- **DevOps**: Docker, Kubernetes, CI/CD, etc.
+- **Languages**: C#, Python, JavaScript, etc.
+- **Frontend**: Angular, React, Vue.js, HTML/CSS, etc.
+- **Backend**: .NET, Node.js, Flask
+- **Databases**: SQL, PostgreSQL, MongoDB, etc.
+- **DevOps**: Azure DevOps, CI/CD, etc.
 - **Other Tools**: Git, AWS, etc.
 
 ## Featured Projects
@@ -30,7 +52,7 @@ Here are some highlighted projects that demonstrate my capabilities:
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
 | Story Time Image Generation | A basic web app to create images based on descriptions from OpenAI. The inspiration to my comic book generation app | React 19, NodeJS, Express, Tailwind, SQLite | [Link](https://github.com/rroethle7474/story-time-image-gen) | | 
-| [Project Name] | Brief description of what this project does | Python, Flask, MongoDB | [Link](URL) | |
+| Landing Page | A mock landing page for what I would use if I were starting my own software company. | React 18, TailwindCSS 3, Vite | [Link](https://mandry.software/) | |
 
 ### Javascript Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
@@ -41,10 +63,11 @@ Here are some highlighted projects that demonstrate my capabilities:
 
 
 ### Python Projects
-| Project | Description | Tech Stack | GitHub Link | Site Link |
-|---------|-------------|------------|-------------| ----------|
-| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) | | 
-| Raspberry Pi Media Player with Remote | A media player tied to a universal remote to automatically play tv shows for my Grandma. | Python Linux Raspberry Pi| [Link](https://github.com/rroethle7474/auto-remote-media-rasp-pi) | |
+| Project | Description | Tech Stack | GitHub Link | Site Link | Associated Projects}
+|---------|-------------|------------|-------------| ----------|| ----------|
+| LearningTimeAPI | API to interact with LLM providers (via API) and parse article links, youtube videos, and uploaded documents to store in ChromaDb  | Python | [Link](https://github.com/rroethle7474/LearningTimeAPI-V1) | | | https://github.com/rroethle7474/MrALearningTime101 |
+| Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) | | | | 
+| Raspberry Pi Media Player with Remote | A media player tied to a universal remote to automatically play tv shows for my Grandma. | Python Linux Raspberry Pi| [Link](https://github.com/rroethle7474/auto-remote-media-rasp-pi) | | | | 
 
 ### Database
 | Project | Description | Tech Stack | Link |
