@@ -17,7 +17,8 @@ Feel free to browse some of the repo's I've been working on below for more detai
 *Front End Demo for Landing Page (with links to below sites)*
 https://mandry.software/
 
-Full Stack Web Applications (Front End, Backend, Database)
+*Full Stack Web Applications (Front End, Backend, Database)*
+
 https://www.dopaminedetoxtoday.com/
 
 https://www.sillymonkeygifts.com/
@@ -63,9 +64,9 @@ Here are some highlighted projects that demonstrate my capabilities:
 
 
 ### Python Projects
-| Project | Description | Tech Stack | GitHub Link | Site Link | Associated Projects}
-|---------|-------------|------------|-------------| ----------|| ----------|
-| LearningTimeAPI | API to interact with LLM providers (via API) and parse article links, youtube videos, and uploaded documents to store in ChromaDb  | Python | [Link](https://github.com/rroethle7474/LearningTimeAPI-V1) | | | https://github.com/rroethle7474/MrALearningTime101 |
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+| LearningTimeAPI | API to interact with LLM providers (via API) and parse article links, youtube videos, and uploaded documents to store in ChromaDb  | Python | [Link](https://github.com/rroethle7474/LearningTimeAPI-V1) | |
 | Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) | | | | 
 | Raspberry Pi Media Player with Remote | A media player tied to a universal remote to automatically play tv shows for my Grandma. | Python Linux Raspberry Pi| [Link](https://github.com/rroethle7474/auto-remote-media-rasp-pi) | | | | 
 
