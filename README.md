@@ -29,25 +29,33 @@ https://www.jclleague.com/
 
 ## Skills & Technologies
 - **Languages**: C#, Python, JavaScript, etc.
-- **Frontend**: Angular, React, Vue.js, HTML/CSS, etc.
-- **Backend**: .NET, Node.js, Flask
-- **Databases**: SQL, PostgreSQL, MongoDB, etc.
+- **Frontend**: Angular, React, HTML/CSS, Razor Pages & MVC (professional work)
+- **Backend**: .NET, Node.js, Flask, FastApi
+- **Databases**: SQL, PostgreSQL, SQLite, ChromaDb
 - **DevOps**: Azure DevOps, CI/CD, etc.
-- **Other Tools**: Git, AWS, etc.
+- **CMS**: Optimizely, ContentStack (Professional work)
 
 ## Featured Projects
 Here are some highlighted projects that demonstrate my capabilities:
 
-## C#, .NET Projects, Azure Functions
+## C#, .NET Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
-| SocialMediaDetoxAPI | API to support retrieving content from SQL db for the Social Media Detox app | C#, .NET 8, Entity Framework/Identity, Auto Mapper |  [Link](https://github.com/rroethle7474/DopamineDetoxAPI) | |
+| SocialMediaDetoxAPI | API to support retrieving content from SQL db for the Social Media Detox app and sending email notifications through SendGrid | C#, .NET 8, Entity Framework/Identity, Auto Mapper, SendGrid Email |  [Link](https://github.com/rroethle7474/DopamineDetoxAPI) | |
+| GiftAPI | A restful API to interact with GiftWeb | C#, .NET 8, Entity Framnework | [Link](https://github.com/rroethle7474/gift-api) | |
 | StoryTimeComicBookApi | Brief description of what this project does | C#, .NET 7, PostgreSQL, Replicate, Entity Framnework | [Link](https://github.com/rroethle7474/StoryTimeComicBookApi) | |
 | NewsFeedAPI | Very basic API to support retrieving articles from Yahoo, Google, and YouTube | C#, .NET 7, Swagger Rest API  | [Link](https://github.com/rroethle7474/JCLNewsFeedAPI) | |
+
+## Azure Functions
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+| SocialMediaDetox Function | Trigger and Timer functions available for populating data daily/weekly for Social Media Detox App with SignalR hub functions for notifications. | C#, .NET 8, SignalR |  [Link](https://github.com/rroethle7474/DopamineDetoxFunction) | |
 
 ## Angular Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
+| Social Media Detox Web | A site used too display results from youtube and twitter/x based on desired topics and channels | Angular 17, Node.js, Bootstrap | [Link](https://github.com/rroethle7474/social-media-detox) | https://www.dopaminedetoxtoday.com/|
+| Gift Application UI | A UI to use for family and friends to add what gifts they'd like for christmas or birthday | Angular 17, Node.js | [Link](https://github.com/rroethle7474/gift-web) | https://www.sillymonkeygifts.com/ |
 | StoryTimeComicBook | A UI to walk a user through uploading image and audio to create their very own comic | Angular 17, Typescript, RxJS, Toastr | [Link](https://github.com/rroethle7474/comic-book-generator) | |
 | Fantasy Baseball Keeper UI | UI to allow for spreadsheet uploads to send to API for proper parsing | Angular 17, Bootstrap, PapParse | [Link](https://github.com/rroethle7474/JCLKeepersUI) | |
 | Prop Bet Monte Carlo UI | UI to display monte carlo simulation results for various betting scenarios | Angular 17 | [Link](https://github.com/rroethle7474/monte-carlo-simulator) | |
@@ -72,7 +80,9 @@ Here are some highlighted projects that demonstrate my capabilities:
 ### Python Projects
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
+| SocialMediaRetrieverAPI | A Twitter/X scaper using Selenium and BeautifulSoup to return channels and posts based on search terms | Python, Selenium, Flask, BeautifulSoup4 | [Link](https://github.com/rroethle7474/social-media-detox-pythonapi) | |
 | LearningTimeAPI | API to interact with LLM providers (via API) and parse article links, youtube videos, and uploaded documents to store in ChromaDb  | Python, ChromaDb, Playwright | [Link](https://github.com/rroethle7474/LearningTimeAPI-V1) | |
+| Fantasy Baseball Lineup Optimizer API | Backend API using machine learning libraries to analyze uploaded spreadsheets and players to generate optimized lineups. | Python, Pandas, NumPy, SciPy, PuLP, Flask, SQLite Db | [Link](https://github.com/rroethle7474/fantasy-baseball-backend) | |
 | Fantasy Baseball Keeper List Creator | Takes previous year's rosters and determines eligible keepers via CSV file uploads. | Python | [Link](https://github.com/rroethle7474/JCL2025-Roster) | |
 | Prop Betting Monte Carlo API | API for creating monte carlo simulations based on different betting probabilities. | Python, Flask, BeautifulSoup, SQLAlchemy, NumPy | [Link](https://github.com/rroethle7474/PrizePicksMonteAPI) | |
 | Football Prediction API | API for processing NFL team statistics | Python, HuggingFace, Azure Storage Containers| [Link](https://github.com/rroethle7474/football-prediction-model-api) | |
@@ -80,17 +90,23 @@ Here are some highlighted projects that demonstrate my capabilities:
 | Raspberry Pi Media Player with Remote | A media player tied to a universal remote to automatically play tv shows for my Grandma. | Python, Linux, Raspberry Pi| [Link](https://github.com/rroethle7474/auto-remote-media-rasp-pi) | | 
 
 ### Database
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| [Project Name] | Brief description of what this project does | Java, Spring Boot | [Link](URL) |
-| [Project Name] | Brief description of what this project does | Go, Docker | [Link](URL) |
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+| ProjectDb | Combined DB for gift and ProjectDB (to save cost), hosted in Azure | SQL | [Link](https://github.com/rroethle7474/ProjectDb) | |
+| ComicBookGenerator | Combined DB used for the comic book generations app using multiple schemas | PostgreSQL | [Link](https://github.com/rroethle7474/StoryTimeComicBookApi/tree/main/Data) | |
+
+### Nuget Packages
+| Project | Description | Tech Stack | GitHub Link | Site Link |
+|---------|-------------|------------|-------------| ----------|
+| DopamineDetox.Domain | Reusable domain model nuget package for use in Social Media Detox .NET projects | C#, .NET, Azure DevOps Nuget Feed | [Link](https://github.com/rroethle7474/DopamineDetox.Domain) | |
+| DopamineDetox.ServiceAgent | Reusable Service Agent nuget package for use in Social Media Detox .NET projects | C#, .NET, Azure DevOps Nuget Feed | [Link](https://github.com/rroethle7474/DopamineDetox.ServiceAgent) |
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rroethle7474&show_icons=true&theme=radical)
 
 ## Contact Me
 - **Email**: rroethle@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](URL)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ryan-roethle-64293947/)
 
 ## Looking For
 Currently seeking opportunities in [specific roles or industries you're targeting].
