@@ -64,7 +64,7 @@ Here are some highlighted projects that demonstrate my capabilities:
 | Project | Description | Tech Stack | GitHub Link | Site Link |
 |---------|-------------|------------|-------------| ----------|
 | LearningTimeUI | A front end interface to upload urls for articles, youtube videos, and documents. | React 18, Tailwind, Vite | [Link](https://github.com/rroethle7474/MrALearningTime101/tree/main/knowledge-manager) | | 
-| Landing Page | A mock landing page for what I would use if I were starting my own software company. | React 18, TailwindCSS 3, Vite | [Link](https://mandry.software/) | |
+| Landing Page | A mock landing page for what I would use if I were starting my own software company. | React 18, TailwindCSS 3, Vite | [Link](https://github.com/rroethle7474/mandry-software-landing-01) | https://mandry.software/ |
 | Football Prediction UI | UI for displaying predicted NFL team stats per week as well as creating new models within Huggingface| React 19, NextJS, PapaParse | [Link](https://github.com/rroethle7474/football-prediction-model-web) | https://www.jclleague.com/ | 
 | Fantasy Baseball Lineup Optimizer | UI for displaying optimized lineup results allowing for various other options with API | React 19, Tailwind CSS (v4), Vite, Axios| [Link](https://github.com/rroethle7474/fantasy-baseball-frontend) | | 
 | Story Time Image Generation | A basic web app to create images based on descriptions from OpenAI. The inspiration to my comic book generation app | React 19, NodeJS, Express, Tailwind | [Link](https://github.com/rroethle7474/story-time-image-gen) | | 
@@ -106,7 +106,7 @@ Here are some highlighted projects that demonstrate my capabilities:
 
 ## Contact Me
 - **Email**: rroethle@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ryan-roethle-64293947/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ryan-roethle-64293947/)
 
 ## Looking For
 Currently seeking opportunities in [specific roles or industries you're targeting].
