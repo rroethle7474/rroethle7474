@@ -1,0 +1,9 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+
+# Your rule content
+
+- For updating the README.md file, please use this style guide: [github-markdown-style-guide.mdc](mdc:.cursor/rules/github-markdown-style-guide.mdc).

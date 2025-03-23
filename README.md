@@ -1,14 +1,32 @@
 # Ryan Roethle
 
 ## About Me
-I'm a full stack dev who is loving what AI is bringing to the programming world. After taking some time off, starting in 2025,  I decided to get back in the game!
+Full Stack Dev who uses both tabs and spaces (can't ever watch Silicon valley enough). Love/hate relationship with vibe coding but understand that with expert knowledge the sky's the limit to where AI will take us. I think having solid fundamentals proper structure, and repeatable processes that evolve over time (is that considered clean code practices, probably not), a code base made with the help of AI doesn't have to be a giant mess. (you'll see some of them currently in my repos...)
 
-Feel free to browse some of the repo's I've been working on below for more details or review the docs for insight.
+After a year long break, I decided to jump back into the developing wolrd and can't wait to do this for the rest of my life (or for as long as our AI overlords will let us). No real preference on what language I like best but I prefer to develop using .NET, Javascript, and Python.
+
+I use Visual Studio, Visual Studio Code, Cursor, and Windfurf for creating a project (normally based on the size and language I'm using) and have a very good friend in Claude helping me along the way.
+
+I feel that as long as a person has enthusiasm and a willingness to learn that life will never not give you an opportunity and I can't wait to use this wherever my programming journey takes me.
+
+Feel free to browse some of the repo's I've been working on below for more details or review the readme docs associated with them. I've deployed some of them to Azure to refamiiarize myself again with the DevOps portion of the cloud world. None of them are currently production ready, but I do use them in my own daily life.
 
 
-## What I'm working on Next
+## What I'm working on Next (starting 3/24/25)
+I'm starting a project to scrape mlb player prop bets from various sites and then allow me to "paper" bet along so I can track different betting strategies over the course of the baseball season. This fun project will allow me to test out different strategies and do real time back testing which will hopefully prepare me for my adventures in doing my own stock market trading.
 
+The project will feature two seperate front ends.
 
+1) React (to apply my knowledge that I'm gaining while going through Maximilian Schwarzmüller's wonderful book: https://www.amazon.com/React-Key-Concepts-depth-features/dp/183620227X/ref=tmm_pap_swatch_0)
+The front end will be primarily used for displaying my progress and allowing the user to place fake bets.
+
+2) .NET Front End allowing the user to create prop betting strategies and allowing for data uploads to backtest strategies. The purpose of making a seperate front end is to test how current .net 9 (whether razor pages or mvc) compares to front end frameworks like react and angular as I'm more familiar with creating API's with .NET. (I'm current using https://www.udemy.com/course/complete-aspnet-core-21-course/  from my favorite .NET teacher: Bhrugen Patel)
+
+2 seperate back ends
+
+1) Python Flask API: Used for web scraping and machine learning capabilities.
+
+2) .NET API to retrieve results since I prefer using SQL and entity framework.
 
 
 ## Links: Live Demo Sites all full stack applications hosted in Azure
