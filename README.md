@@ -1,7 +1,7 @@
 # Ryan Roethle
 
 ## About Me
-Full Stack Dev who uses both tabs and spaces (can't ever watch Silicon valley enough). Love/hate relationship with vibe coding but understand that with expert knowledge the sky's the limit to where AI will take us. I think having solid fundamentals proper structure, and repeatable processes that evolve over time (is that considered clean code practices, probably not), a code base made with the help of AI doesn't have to be a giant mess. (you'll see some of them currently in my repos...)
+Full Stack Dev who uses both tabs and spaces (can't ever watch Silicon Valley enough). Love/hate relationship with vibe coding but understand that with expert knowledge the sky's the limit to where AI will take us. I think having solid fundamentals, proper structure, and repeatable processes that evolve over time (is that considered clean code practices, probably not), a code base made with the help of AI doesn't have to be a giant mess. (you'll see some of them currently in my repos...)
 
 After a year long break, I decided to jump back into the developing wolrd and can't wait to do this for the rest of my life (or for as long as our AI overlords will let us). No real preference on what language I like best but I prefer to develop using .NET, Javascript, and Python.
 
@@ -12,7 +12,7 @@ I feel that as long as a person has enthusiasm and a willingness to learn that l
 Feel free to browse some of the repo's I've been working on below for more details or review the readme docs associated with them. I've deployed some of them to Azure to refamiiarize myself again with the DevOps portion of the cloud world. None of them are currently production ready, but I do use them in my own daily life.
 
 
-## What I'm working on Next (starting 3/24/25)
+## What I'm working on Next (starting 3/25/25)
 I'm starting a project to scrape mlb player prop bets from various sites and then allow me to "paper" bet along so I can track different betting strategies over the course of the baseball season. This fun project will allow me to test out different strategies and do real time back testing which will hopefully prepare me for my adventures in doing my own stock market trading.
 
 The project will feature two seperate front ends.
@@ -83,7 +83,7 @@ Here are some highlighted projects that demonstrate my capabilities:
 |---------|-------------|------------|-------------| ----------|
 | LearningTimeUI | A front end interface to upload urls for articles, youtube videos, and documents. | React 18, Tailwind, Vite | [Link](https://github.com/rroethle7474/MrALearningTime101/tree/main/knowledge-manager) | | 
 | Landing Page | A mock landing page for what I would use if I were starting my own software company. | React 18, TailwindCSS 3, Vite | [Link](https://github.com/rroethle7474/mandry-software-landing-01) | https://mandry.software/ |
-| Football Prediction UI | UI for displaying predicted NFL team stats per week as well as creating new models within Huggingface| React 19, NextJS, PapaParse | [Link](https://github.com/rroethle7474/football-prediction-model-web) | https://www.jclleague.com/ | 
+| Football Prediction UI | UI for displaying predicted NFL team stats per week as well as creating new models within Huggingface| React 18, NextJS, PapaParse | [Link](https://github.com/rroethle7474/football-prediction-model-web) | https://www.jclleague.com/ | 
 | Fantasy Baseball Lineup Optimizer | UI for displaying optimized lineup results allowing for various other options with API | React 19, Tailwind CSS (v4), Vite, Axios| [Link](https://github.com/rroethle7474/fantasy-baseball-frontend) | | 
 | Story Time Image Generation | A basic web app to create images based on descriptions from OpenAI. The inspiration to my comic book generation app | React 19, NodeJS, Express, Tailwind | [Link](https://github.com/rroethle7474/story-time-image-gen) | | 
 
@@ -125,6 +125,3 @@ Here are some highlighted projects that demonstrate my capabilities:
 ## Contact Me
 - **Email**: rroethle@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ryan-roethle-64293947/)
-
-## Looking For
-Currently seeking opportunities in [specific roles or industries you're targeting].
